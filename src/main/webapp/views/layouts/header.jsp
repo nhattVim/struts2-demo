@@ -30,10 +30,3 @@
     </div>
   </div>
 </nav>
-
-<div class="container mt-4">
-  <s:if test="hasActionErrors()">
-    <div class="alert alert-danger">
-      <s:actionerror/>
-    </div>
-  </s:if>

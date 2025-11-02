@@ -5,6 +5,7 @@
 
 <div class="container mt-4">
   <h2 class="mb-4">📰 Tin mới nhất</h2>
+  <p>Đây là trang home, bạn truy cập được vào trang này vì đã đăng nhập, hãy thử Logout và tìm cách vào trang này</p>
   <div class="row">
     <s:iterator value="newsList">
       <div class="col-md-4 mb-3">
