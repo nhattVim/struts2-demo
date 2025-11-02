@@ -10,7 +10,7 @@
     <div class="alert alert-success"><s:actionmessage/></div>
   </s:if>
 
-  <s:form action="contact" method="post" cssClass="mt-3">
+  <s:form action="contact" method="post" cssClass="mt-3" theme="simple">
     <div class="mb-3">
       <label class="form-label">Họ tên</label>
       <s:textfield name="name" cssClass="form-control" />
